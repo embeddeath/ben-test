@@ -3,6 +3,7 @@
 
 int main ()
 {
-    printf("File\n"); 
+    printf("File\n");
+    printf("Bye!\n");  
     return 0; 
 }
